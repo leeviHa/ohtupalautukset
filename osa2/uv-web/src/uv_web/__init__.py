@@ -1,2 +1,3 @@
-def main() -> None:
-    print("Hello from uv-web!")
+import cowsay
+
+cowsay.cow('Laitetaan VS Code toimimaan kunnolla!')
